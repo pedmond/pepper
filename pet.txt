@@ -1,1 +1,4 @@
-today is noice
+This is Git
+The thing is lit
+You just have to init
+Go get it!
